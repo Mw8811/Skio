@@ -80,7 +80,7 @@
     ]
   },
   "chrome_url_overrides": {
-    "newtab": "/new-tab/main.html"
+    "new-tab-page": "/new-tab/main.html"
   },
   "permissions": [
     "commands",
